@@ -2,7 +2,7 @@
 
 Stephen:
 
-1:	https://iopscience.iop.org/article/10.1088/1742-6596/1755/1/012006/pdf
+1: https://iopscience.iop.org/article/10.1088/1742-6596/1755/1/012006/pdf
 
 2: http://www.aimspress.com/aimspress-data/electreng/2021/1/PDF/electroneng-05-01-005.pdf
 
@@ -16,7 +16,7 @@ Derick
 
 5: https://doi.org/10.5455/jjcit.71-1624859356
 
-6:
+6: http://www.matf.bg.ac.rs/p/files/10-info.pdf
 
 
 7: 1804.06655v9.pdf (Deep Face Recognition: A SurveyMei Wang, Weihong Deng)
@@ -27,6 +27,6 @@ Minah:
 
 9: https://ijsrcseit.com/paper/CSEIT228558.pdf
 
-10:
+10: https://doi.org/10.1109/IJCB54206.2022.10007937
 
 
