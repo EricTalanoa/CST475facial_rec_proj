@@ -1,0 +1,32 @@
+10 Scholar Articles:
+
+Stephen:
+
+1:	https://iopscience.iop.org/article/10.1088/1742-6596/1755/1/012006/pdf
+
+2: http://www.aimspress.com/aimspress-data/electreng/2021/1/PDF/electroneng-05-01-005.pdf
+
+Eric 
+
+3: https://onlinelibrary.wiley.com/doi/full/10.1155/hbe2/5979728
+
+4: https://link.springer.com/article/10.1007/s00146-023-01634-z
+
+Derick
+
+5: https://doi.org/10.5455/jjcit.71-1624859356
+
+6:
+
+
+7: 1804.06655v9.pdf (Deep Face Recognition: A SurveyMei Wang, Weihong Deng)
+
+8: https://paperswithcode.com/paper/facenet-a-unified-embedding-for-face
+
+Minah:
+
+9: https://ijsrcseit.com/paper/CSEIT228558.pdf
+
+10:
+
+
