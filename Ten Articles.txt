@@ -29,4 +29,8 @@ Minah:
 
 10: https://doi.org/10.1109/IJCB54206.2022.10007937
 
+Jonathan:
 
+11: https://paperswithcode.com/paper/facenet-a-unified-embedding-for-face
+
+12. https://paperswithcode.com/paper/arcface-additive-angular-margin-loss-for-deep
