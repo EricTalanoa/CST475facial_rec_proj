@@ -2,9 +2,9 @@
 
 Stephen:
 
-1: https://iopscience.iop.org/article/10.1088/1742-6596/1755/1/012006/pdf
+1: https://arxiv.org/pdf/1706.02863
 
-2: http://www.aimspress.com/aimspress-data/electreng/2021/1/PDF/electroneng-05-01-005.pdf
+2: https://arxiv.org/pdf/1902.06854 
 
 Eric 
 
