@@ -6,3 +6,11 @@ Plan: Be able to identify If there is a face in an image and how many there are
 Smaller DataSet: Self Created : Multiple Headshots of group members
 Plan: Be able to test on a input photo and tell if it is one of the group members and which one it is.
 
+
+Articles Realted to Wider Face DataSet:
+
+Stephen:
+
+1: https://arxiv.org/pdf/1706.02863
+
+2: https://arxiv.org/pdf/1902.06854 
